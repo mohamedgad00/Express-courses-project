@@ -38,7 +38,7 @@ Before running this project, make sure you have the following installed:
 
 ```bash
 git clone <your-repository-url>
-cd session5
+cd Express-courses-project
 ```
 
 ### 2. Install Dependencies
