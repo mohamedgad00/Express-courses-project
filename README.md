@@ -52,7 +52,7 @@ npm install
 Create a `.env` file in the root directory:
 
 ```env
-MONGO_URL=mongodb+srv://username:password@cluster.mongodb.net/database_name?retryWrites=true&w=majority
+MONGO_URL= ............................
 PORT=3000
 JWT_SECRET_KEY=your_jwt_secret_key_here
 ```
